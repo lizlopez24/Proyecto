@@ -19,3 +19,9 @@ table,tr,td{
 	display: inline-block;
 	text-decoration: none;
 }
+
+#organizar {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
