@@ -1,0 +1,6 @@
+		<!--/contenido-->
+
+		</div>
+
+</body>
+</html>
